@@ -1,0 +1,6 @@
+org/wso2/custom/extensions/password/validator/TimeSensitivePasswordPolicy.class
+org/wso2/custom/extensions/password/validator/CustomPasswordPolicyConstants.class
+org/wso2/custom/extensions/password/validator/SequentialPasswordPolicy.class
+org/wso2/custom/extensions/password/validator/CustomPasswordPolicyValidatorHandler.class
+org/wso2/custom/extensions/password/validator/EntropyValidator.class
+org/wso2/custom/extensions/password/validator/internal/CustomPasswordPolicyValidatorServiceComponent.class
