@@ -51,6 +51,6 @@ Navigate to the Management Console >> Identity Providers >> Resident, where you 
 ## Customization
 You can modify the password policy logic to meet your custom requirements.
 
-
+[1] - https://medium.com/@ushaniathukorala/writing-a-custom-event-handler-in-wso2-a-guide-to-creating-a-password-validator-0269e129a273
 
 
